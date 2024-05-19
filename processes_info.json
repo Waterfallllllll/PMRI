@@ -1,0 +1,887 @@
+[
+    {
+        "ProcessID": 3140,
+        "ExecutablePath": "C:\\Windows\\System32\\sihost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 3184,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3296,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3340,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3592,
+        "ExecutablePath": "C:\\Windows\\System32\\taskhostw.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 2172,
+        "ExecutablePath": "C:\\Windows\\System32\\rundll32.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 6788,
+        "ExecutablePath": "C:\\Windows\\explorer.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7896,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 8036,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9032,
+        "ExecutablePath": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 9080,
+        "ExecutablePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 2568,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 6056,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 832,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 8548,
+        "ExecutablePath": "C:\\Windows\\System32\\dllhost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9812,
+        "ExecutablePath": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9824,
+        "ExecutablePath": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7328,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.AlwaysOnTop.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9980,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.Awake.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10068,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.ColorPickerUI.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10188,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.CropAndLock.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1316,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.FancyZones.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9056,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\WinUI3Apps\\PowerToys.Peek.UI.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10340,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.PowerLauncher.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10540,
+        "ExecutablePath": "C:\\Program Files\\PowerToys\\PowerToys.PowerOCR.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 11740,
+        "ExecutablePath": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 12256,
+        "ExecutablePath": "C:\\Windows\\System32\\smartscreen.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 13904,
+        "ExecutablePath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14204,
+        "ExecutablePath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14332,
+        "ExecutablePath": "C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode\\NVIDIA Web Helper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 13532,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 15000,
+        "ExecutablePath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10288,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\124.0.2478.97\\msedgewebview2.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14316,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\124.0.2478.97\\msedgewebview2.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 12416,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\124.0.2478.97\\msedgewebview2.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 12444,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\124.0.2478.97\\msedgewebview2.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 6400,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\124.0.2478.97\\msedgewebview2.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 15484,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\124.0.2478.97\\msedgewebview2.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16516,
+        "ExecutablePath": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 16012,
+        "ExecutablePath": "C:\\Windows\\System32\\spool\\drivers\\x64\\3\\CNAP2LAK.EXE",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16308,
+        "ExecutablePath": "C:\\Windows\\System32\\spool\\drivers\\x64\\3\\CNAP2RPK.EXE",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16332,
+        "ExecutablePath": "C:\\Windows\\System32\\spool\\drivers\\x64\\3\\CNABCSWK.EXE",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10584,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 4848,
+        "ExecutablePath": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_424.1301.450.0_x64__cw5n1h2txyewy\\Dashboard\\WidgetService.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16468,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7956,
+        "ExecutablePath": "C:\\Windows\\System32\\LocationNotificationWindows.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 10884,
+        "ExecutablePath": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 18292,
+        "ExecutablePath": "C:\\Windows\\System32\\svchost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14116,
+        "ExecutablePath": "C:\\Windows\\System32\\dllhost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 12216,
+        "ExecutablePath": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7992,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 5048,
+        "ExecutablePath": "C:\\Windows\\System32\\dllhost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 17652,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9436,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19380,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 17928,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 13268,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 408,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19036,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 15604,
+        "ExecutablePath": "C:\\Program Files\\Java\\jdk-22\\bin\\java.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 11960,
+        "ExecutablePath": "D:\\steam\\steam.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20252,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1120,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16696,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19296,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20788,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20840,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 22912,
+        "ExecutablePath": "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2404.1001.25.0_x64__8wekyb3d8bbwe\\XboxGameBarWidgets.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20644,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23380,
+        "ExecutablePath": "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2404.1001.25.0_x64__8wekyb3d8bbwe\\XboxPcAppFT.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 22728,
+        "ExecutablePath": "C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2403.8.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20508,
+        "ExecutablePath": "C:\\Program Files\\McAfee\\WebAdvisor\\uihost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 22600,
+        "ExecutablePath": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 21740,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7096,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 2692,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7124,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 28196,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 26144,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 24060,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9860,
+        "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20124,
+        "ExecutablePath": "D:\\steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16808,
+        "ExecutablePath": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_424.1301.450.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19628,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16804,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 25712,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 26784,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9156,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10004,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3620,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 17284,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 25732,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19244,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16072,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 22456,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 28020,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 12784,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14080,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 15932,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7340,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 26672,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 6976,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7772,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 27344,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1376,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 4424,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 5664,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23836,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20596,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 28532,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3972,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 21392,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19584,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 25268,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 15844,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23220,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23204,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14020,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1404,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 8056,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 24340,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 16108,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 17452,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 4444,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19028,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1584,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 18388,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 5848,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 10496,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 22568,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 25452,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 5596,
+        "ExecutablePath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 26260,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20180,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 13608,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23592,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19352,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 28440,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3020,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9048,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 2888,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 6100,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20096,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 25680,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14084,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\resources\\app.asar.unpacked\\node_modules\\@axosoft\\node-spawn-server\\target\\release\\node-spawn-server.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 4784,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 21448,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\gitkraken.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 27352,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\resources\\app.asar.unpacked\\node_modules\\@axosoft\\node-spawn-server\\target\\release\\node-spawn-server.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 9732,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 13664,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\gitkraken\\app-10.0.0\\resources\\app.asar.unpacked\\node_modules\\@axosoft\\node-spawn-server\\target\\release\\node-spawn-server.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 8792,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 11852,
+        "ExecutablePath": "D:\\Telegram Desktop\\Telegram.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19892,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 28480,
+        "ExecutablePath": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 20584,
+        "ExecutablePath": "C:\\Program Files\\WindowsApps\\MSTeams_24102.2223.2870.9480_x64__8wekyb3d8bbwe\\ms-teamsupdate.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 15672,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23464,
+        "ExecutablePath": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 23868,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 24724,
+        "ExecutablePath": "C:\\Windows\\System32\\SystemSettingsBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 25412,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3012,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 22228,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 18224,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1680,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 23344,
+        "ExecutablePath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 27956,
+        "ExecutablePath": "D:\\Microsoft VS Code\\Code.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 5348,
+        "ExecutablePath": "C:\\Windows\\System32\\conhost.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 2572,
+        "ExecutablePath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "DigitalSignatureTrusted": false
+    },
+    {
+        "ProcessID": 21424,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Discord\\app-1.0.9147\\Discord.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 5180,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 12828,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 1776,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 19476,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 28612,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 7644,
+        "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 3644,
+        "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "DigitalSignatureTrusted": true
+    },
+    {
+        "ProcessID": 14076,
+        "ExecutablePath": "C:\\Users\\iliec\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "DigitalSignatureTrusted": true
+    }
+]
